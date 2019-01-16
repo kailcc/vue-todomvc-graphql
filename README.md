@@ -1,4 +1,4 @@
-# vue-ts-demo
+# vue-todomvc-graphql
 
 ## Project setup
 ```
@@ -32,4 +32,3 @@ yarn run test:unit
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
-# vue-todomvc-graphql

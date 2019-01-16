@@ -6,12 +6,12 @@
 
 <script>
 // @ is an alias to /src
-import Todo from '@/components/todo.vue'
+import Todo from '@/components/todo.vue';
 
 export default {
   name: 'home',
   components: {
-    Todo
-  }
+    Todo,
+  },
 }
 </script>
